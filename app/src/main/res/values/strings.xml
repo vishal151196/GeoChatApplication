@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="send_connect_error">Send Connect Error</string>
+    <string name="send_random_id">Send Random ID</string>
+</resources>
